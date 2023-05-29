@@ -1,2 +1,0 @@
-# trybe-front-end
-exercicios
